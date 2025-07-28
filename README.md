@@ -8,10 +8,7 @@
 
 ## 🎬 Preview
 
-https://user-images.githubusercontent.com/your-id/sr.mp4  
-<!-- Alternatively, embed as a video below (not guaranteed to work inline on GitHub) -->
-
-<video src="sr.mp4" width="400" controls autoplay muted loop></video>
+<video src="./sr.mp4" width="400" controls autoplay muted loop></video>
 
 ---
 

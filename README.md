@@ -8,7 +8,7 @@
 
 ## 🎬 Preview
 
-<video src="./sr.mp4" width="400" controls autoplay muted loop></video>
+<video src="https://github.com/user-attachments/assets/f443362a-2812-4ee8-bc14-8ce077e66807" width="400" controls autoplay muted loop></video>
 
 ---
 

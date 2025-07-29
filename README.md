@@ -27,13 +27,13 @@ If you're not sure how to compile the app yourself, follow the official [Tauri b
 ## 📦 Download Prebuilt Binaries
 
 - **macOS (Apple Silicon)**  
-  [Download `.dmg`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.0/dubulist_0.1.0_aarch64.dmg)
+  [Download `.dmg`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.0/dubulist_0.1.1_aarch64.dmg)
 
 - **Windows (x64)**  
-  [Download `.exe`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.0/dubulist_0.1.0_x64-setup.exe)
+  [Download `.exe`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.0/dubulist_0.1.1_x64-setup.exe)
 
 - **Android (Universal)**  
-  [Download `.apk`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.1/dubulist_0.1.0_universal.apk)
+  [Download `.apk`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.1/dubulist_0.1.1_universal.apk)
 
 > If you're using Linux or another architecture, consider building the app from source.
 

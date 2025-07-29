@@ -32,6 +32,9 @@ If you're not sure how to compile the app yourself, follow the official [Tauri b
 - **Windows (x64)**  
   [Download `.exe`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.0/dubulist_0.1.0_x64-setup.exe)
 
+- **Android (Universal)**  
+  [Download `.apk`](https://github.com/AhmedBoin/dubu-list/releases/download/v0.1.1/dubulist_0.1.0_universal.apk)
+
 > If you're using Linux or another architecture, consider building the app from source.
 
 ---
